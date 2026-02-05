@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZ5mCCTgSZU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\javid\\OneDrive\\Skrivebord\\BusinessCore\\BusinessCore-Order-Inventory-Management-API\\BusinessCore.Api\\BusinessCore.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javid\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\javid\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
