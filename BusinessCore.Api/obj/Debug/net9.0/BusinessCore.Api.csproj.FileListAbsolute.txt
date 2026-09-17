@@ -6,8 +6,10 @@ C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Man
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\BusinessCore.Api.runtimeconfig.json
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\BusinessCore.Api.dll
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\BusinessCore.Api.pdb
-C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\obj\Debug\net9.0\BusinessCore.Api.csproj.AssemblyReference.cache
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
 C:\Users\javid\OneDrive\Skrivebord\BusinessCore\BusinessCore-Order-Inventory-Management-API\BusinessCore.Api\obj\Debug\net9.0\BusinessCore.Api.GeneratedMSBuildEditorConfig.editorconfig
