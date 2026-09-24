@@ -1,0 +1,28 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio and VS Code
+.vs/
+*.user
+*.suo
+
+# Local configuration and secrets
+**/appsettings.Local.json
+**/appsettings.*.local.json
+
+# Node.js and frontend build output
+**/node_modules/
+**/dist/
+**/build/
+**/.next/
+**/.vite/
+*.tsbuildinfo
+
+# Test and coverage output
+**/TestResults/
+**/coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
